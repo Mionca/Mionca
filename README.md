@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola soy Marcelo, estudiante de programacion 
 
-<!--
-**Mionca/Mionca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actualmente estoy cursando con undefinedshell el bootcamp de *Fullstack developer*
 
-Here are some ideas to get you started:
+## Comandos de la terminal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Comando |Funcion|
+|--------|-------|
+|    ls   |   Ver archivos de la ubicacion   |
+|    mkdir   |    Crear una carpeta  |
+|    touch   |    Crear una archivo  |
+|    cd   |   Moverse entre directorios  |
+|    cp   |   Copiar un achivo  |
